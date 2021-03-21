@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PchasSoftware/tayeh.git"
+    "url": "git+https://github.com/PchasSoftware/tayeh-admin-client.git"
   },
   "keywords": [
     "tayeh",
@@ -31,9 +31,9 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PchasSoftware/tayeh/issues"
+    "url": "https://github.com/PchasSoftware/tayeh-admin-client/issues"
   },
-  "homepage": "https://github.com/PchasSoftware/tayeh#readme",
+  "homepage": "https://github.com/PchasSoftware/tayeh-admin-client#readme",
   "devDependencies": {
     "@types/dotenv": "^8.2.0",
     "@types/jest": "^26.0.8",
